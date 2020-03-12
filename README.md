@@ -1,4 +1,4 @@
-# Learning deep Learning
+# Learning Deep Learning
 with Martina
 
 this is the documentation for the torch.nn https://pytorch.org/docs/stable/nn.html
