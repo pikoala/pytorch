@@ -9,8 +9,12 @@ print(uniform_tensor)
 reshape_tensor = torch.Tensor([[1, 2], [3, 4]])
 print(reshape_tensor)
 
+print(x.type())
+
 print(x.dim())
-# print(x.shape())
+
+print(x.shape)
+
 print(x.size())
 
 print(x.view(3, 5))
