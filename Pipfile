@@ -8,6 +8,13 @@ verify_ssl = true
 [packages]
 torchvision = "*"
 torch = "*"
+nltk = "*"
+ipykernel = "*"
+notebook = "*"
+zsh-jupyter-kernel = "*"
+numpy = "*"
+pyyaml = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.8"
